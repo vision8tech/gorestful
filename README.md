@@ -1,4 +1,3 @@
-[![codecov](https://codecov.io/gh/narenaryan/gorestful/branch/master/graph/badge.svg)](https://codecov.io/gh/narenaryan/gorestful)
+## gorestful
 
-# gorestful
-A supplementary code for my book Building RESTful web services with Go
+The supplementary code for [Building RESTful web services with Go](https://www.packtpub.com/application-development/building-restful-web-services-go) book.
